@@ -1,0 +1,12 @@
+{
+  "name": "basel-dev-skills",
+  "version": "1.0.0",
+  "description": "Basel's curated developer skill set. Covers React, Next.js, TypeScript, Tailwind, Supabase, Prisma, n8n, Vercel, WhatsApp, Replicate, and more.",
+  "author": {
+    "name": "baselakkad585-maker",
+    "url": "https://github.com/baselakkad585-maker"
+  },
+  "homepage": "https://github.com/baselakkad585-maker/basel-dev-skills",
+  "repository": "https://github.com/baselakkad585-maker/basel-dev-skills",
+  "license": "MIT"
+}
